@@ -2,7 +2,6 @@
 ![Screenshot 2024-04-02 214304](https://github.com/asyl0/task3_CRUD/assets/155817793/ec092ce7-99a3-4601-8aec-93791c60ab96)
 ![Screenshot 2024-04-02 214313](https://github.com/asyl0/task3_CRUD/assets/155817793/b85f2e75-cd7d-4690-8ee6-d939ed72c464)
 ![Screenshot 2024-04-02 214338](https://github.com/asyl0/task3_CRUD/assets/155817793/86b9346e-a9ed-4e2e-9f17-fe98487691ba)
-![Screenshot 2024-04-02 214352](https://github.com/asyl0/task3_CRUD/assets/155817793/e6614c8d-c6f2-4d8a-99b4-e8bad5f53043)
 ![Screenshot 2024-04-02 214417](https://github.com/asyl0/task3_CRUD/assets/155817793/d09534ea-b664-4d1b-9b13-a375e5a9170f)
 ![Screenshot 2024-04-02 214425](https://github.com/asyl0/task3_CRUD/assets/155817793/e05296d5-5ee4-4798-a459-553c69117e12)
 ![Screenshot 2024-04-02 214431](https://github.com/asyl0/task3_CRUD/assets/155817793/b3141d1d-bdc2-4fde-b193-2dc6ae777a65)
